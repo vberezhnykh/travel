@@ -1,6 +1,6 @@
 # Travel
 
-![image](https://user-images.githubusercontent.com/53420013/187085756-b9ba34e6-ca8e-428e-bfbc-fea1e8f31500.png)
+![image](https://user-images.githubusercontent.com/53420013/187085794-7a6fac21-d672-4f4f-94fa-1af7d534a555.png)
 
 Одностроничный лендинг, имитирующий сайт для планирования путешествий, выполненный 
 в рамках обучения в RS School (https://rs.school/js-stage0/).
